@@ -1,0 +1,249 @@
+[
+ {
+  "slug": "whatsapp-negocios",
+  "x": "WhatsApp para negocios",
+  "cat": "atencion-whatsapp",
+  "casos": [
+   "heladeria",
+   "gastronomia",
+   "inmobiliaria"
+  ],
+  "comp": "manychat-vs-tidio",
+  "answer": "Para una pyme que arranca, ManyChat es la opción más simple: tiene plan gratis y bots para WhatsApp, Instagram y Messenger. Si necesitás la API oficial de WhatsApp Business con varios agentes, mirá respond.io (desde USD 79/mes, anual) o WATI (plan Growth más el costo por mensaje de Meta).",
+  "picks": [
+   [
+    "manychat",
+    "Mejor para empezar: plan gratis y bots multicanal."
+   ],
+   [
+    "respondio",
+    "Mejor para equipos: bandeja omnicanal con IA."
+   ],
+   [
+    "wati",
+    "Alternativa centrada en la API de WhatsApp Business."
+   ],
+   [
+    "tidio",
+    "Si además querés chat en tu web con agente IA."
+   ]
+  ],
+  "pick": [
+   "¿Cuántos mensajes por día recibís? Con poco volumen alcanza un plan gratis.",
+   "¿Necesitás varios agentes respondiendo el mismo número? Buscá una bandeja compartida.",
+   "La API oficial de WhatsApp tiene costo por conversación que cobra Meta, aparte de la herramienta.",
+   "Probá con la prueba gratis antes de pagar y confirmá que tu tarjeta funcione."
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor IA para responder WhatsApp de un negocio?",
+    "Para empezar, ManyChat (tiene plan gratis). Para equipos con varios agentes, respond.io o WATI."
+   ],
+   [
+    "¿Responder WhatsApp con IA es gratis?",
+    "Hay planes gratis (ManyChat), pero la API oficial de WhatsApp Business puede sumar costos por mensaje que cobra Meta."
+   ],
+   [
+    "¿Puedo pagar con tarjeta argentina?",
+    "No lo verificamos en ninguna fuente oficial; confirmalo en el checkout de cada herramienta."
+   ]
+  ]
+ },
+ {
+  "slug": "facturacion",
+  "x": "facturación en Argentina",
+  "cat": "facturacion-admin",
+  "casos": [
+   "estudio-contable"
+  ],
+  "comp": null,
+  "answer": "Para facturar en Argentina, Xubio es la opción de entrada: es un producto argentino con plan Empresa Gratis. Alegra es la alternativa con plan Emprendedor a ARS 27.999/mes + IVA y prueba de 15 días. Confirmá en cada sitio que el plan elegido incluya factura electrónica de ARCA para tu condición fiscal.",
+  "picks": [
+   [
+    "xubio",
+    "Mejor gratis: producto argentino con plan Empresa Gratis."
+   ],
+   [
+    "alegra",
+    "Alternativa paga con prueba de 15 días."
+   ],
+   [
+    "chatgpt",
+    "Complemento: redactar reclamos, mails de cobranza y resúmenes (no factura)."
+   ]
+  ],
+  "pick": [
+   "Verificá que emita factura electrónica ARCA para tu categoría (monotributo o responsable inscripto).",
+   "Mirá cuántos comprobantes por mes incluye el plan.",
+   "Si tenés contador, preguntá qué sistema usa para exportar datos fácilmente.",
+   "Usá la prueba gratis para emitir un comprobante de prueba antes de pagar."
+  ],
+  "faq": [
+   [
+    "¿Qué sistema de facturación conviene a una pyme argentina?",
+    "Xubio para empezar gratis; Alegra si preferís su plan pago. Confirmá en cada sitio la integración con ARCA."
+   ],
+   [
+    "¿Hay facturación electrónica gratis?",
+    "Xubio tiene un plan Empresa Gratis según su sitio oficial; revisá sus límites."
+   ],
+   [
+    "¿ChatGPT puede hacer facturas?",
+    "No emite comprobantes fiscales; sirve para redactar textos y ordenar información."
+   ]
+  ]
+ },
+ {
+  "slug": "anuncios",
+  "x": "anuncios en Meta y Google",
+  "cat": "anuncios",
+  "casos": [
+   "ecommerce",
+   "agencia"
+  ],
+  "comp": null,
+  "answer": "Para generar creatividades de anuncios con IA, AdCreative.ai está pensada para producir muchas variantes (prueba gratis de 7 días) y Pencil es la opción más accesible (Core desde USD 14/mes). Si pautás en Meta, también podés probar Advantage+, la automatización con IA que trae Meta Ads (detalles sin verificar).",
+  "picks": [
+   [
+    "adcreative",
+    "Mejor para volumen de creatividades, con prueba de 7 días."
+   ],
+   [
+    "pencil",
+    "Más accesible: Core USD 14/mes (USD 11 anual)."
+   ],
+   [
+    "metaadvantage",
+    "Automatización nativa dentro de Meta Ads (sin verificar)."
+   ],
+   [
+    "canva",
+    "Para retocar piezas a mano con funciones de IA."
+   ]
+  ],
+  "pick": [
+   "Si invertís poco en pauta, empezá con las herramientas nativas de Meta y Google.",
+   "Si testeás muchas variantes por semana, una herramienta de creatividades ahorra horas.",
+   "Revisá siempre los textos generados: claims de precio y promos deben ser reales.",
+   "Medí resultados por creatividad antes de escalar presupuesto."
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor IA para hacer anuncios?",
+    "AdCreative.ai para generar muchas creatividades; Pencil si buscás algo más barato."
+   ],
+   [
+    "¿Necesito pagar una herramienta para usar IA en Meta Ads?",
+    "No necesariamente: Meta Ads incluye Advantage+ (detalles y costos sin verificar; confirmalo en Meta)."
+   ],
+   [
+    "¿Las creatividades con IA funcionan en español?",
+    "Pencil indica que genera texto en español; en el resto, probalo en la prueba gratis."
+   ]
+  ]
+ },
+ {
+  "slug": "atencion-al-cliente",
+  "x": "atención al cliente",
+  "cat": "atencion-whatsapp",
+  "casos": [
+   "clinica",
+   "turismo",
+   "ecommerce"
+  ],
+  "comp": "manychat-vs-tidio",
+  "answer": "Para atención al cliente en la web, Tidio es la opción más directa: chat con agente IA (Lyro) y plan Free. Para centralizar WhatsApp, Instagram y otros canales en una bandeja con IA, respond.io es la opción para equipos. Si tu canal principal es Instagram o WhatsApp, ManyChat tiene plan gratis.",
+  "picks": [
+   [
+    "tidio",
+    "Mejor para chat web con agente IA, con plan Free."
+   ],
+   [
+    "respondio",
+    "Mejor bandeja omnicanal para equipos."
+   ],
+   [
+    "manychat",
+    "Mejor gratis para Instagram y WhatsApp."
+   ],
+   [
+    "hubspot",
+    "Para registrar clientes en un CRM gratis (2 usuarios, 1.000 contactos)."
+   ]
+  ],
+  "pick": [
+   "Listá tus 20 preguntas más frecuentes: eso es lo que la IA debe responder bien.",
+   "Definí cuándo pasa a un humano (reclamos, pagos).",
+   "Elegí según tu canal principal: web, WhatsApp o Instagram.",
+   "Conectá con un CRM si querés seguimiento de ventas."
+  ],
+  "faq": [
+   [
+    "¿Qué IA sirve para atención al cliente en una pyme?",
+    "Tidio para la web, respond.io para varios canales y ManyChat para Instagram y WhatsApp."
+   ],
+   [
+    "¿Hay opciones gratis?",
+    "Tidio y ManyChat tienen plan gratis según sus páginas de precios."
+   ],
+   [
+    "¿La IA reemplaza al equipo de atención?",
+    "Responde lo repetitivo; los casos complejos conviene derivarlos a una persona."
+   ]
+  ]
+ },
+ {
+  "slug": "redes-sociales",
+  "x": "redes sociales y contenido",
+  "cat": "contenido-redes",
+  "casos": [
+   "gastronomia",
+   "gimnasio",
+   "agencia"
+  ],
+  "comp": null,
+  "answer": "Combiná un asistente para escribir (ChatGPT o Claude, ambos con plan gratis) con una herramienta para programar y medir: Metricool tiene plan gratis para 1 marca y Buffer arranca en USD 5/mes por canal. Para video corto, OpusClip convierte videos largos en clips.",
+  "picks": [
+   [
+    "metricool",
+    "Mejor para planificar y medir: gratis para 1 marca."
+   ],
+   [
+    "buffer",
+    "Programación simple desde USD 5/mes por canal."
+   ],
+   [
+    "opusclip",
+    "Clips cortos desde videos largos; Starter USD 15/mes."
+   ],
+   [
+    "chatgpt",
+    "Ideas y textos, con plan Free."
+   ],
+   [
+    "claude",
+    "Alternativa para redacción, con plan gratis."
+   ]
+  ],
+  "pick": [
+   "Separá crear (asistente IA) de publicar y medir (programador).",
+   "Si manejás varias marcas, mirá los límites por marca o canal.",
+   "Para Reels/TikTok, una herramienta de clips ahorra edición.",
+   "Revisá y adaptá el tono: el contenido genérico rinde menos."
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor IA para redes sociales?",
+    "ChatGPT o Claude para escribir y Metricool o Buffer para programar y medir."
+   ],
+   [
+    "¿Hay herramientas gratis para programar posts?",
+    "Metricool tiene plan gratis (1 marca) y Buffer un plan gratis con 10 posts programados por canal."
+   ],
+   [
+    "¿Cómo hago clips para Reels con IA?",
+    "OpusClip convierte videos largos en clips cortos; tiene plan gratis con marca de agua."
+   ]
+  ]
+ }
+]
