@@ -245,5 +245,149 @@
     "OpusClip convierte videos largos en clips cortos; tiene plan gratis con marca de agua."
    ]
   ]
+ },
+ {
+  "slug": "gastronomia",
+  "x": "gastronomía y restaurantes",
+  "cat": "contenido-redes",
+  "casos": [
+   "gastronomia"
+  ],
+  "comp": null,
+  "answer": "Para un restaurante, combiná un asistente para escribir textos (Claude, con plan gratis), un editor de video para Reels (CapCut, con plan Free) y una automatización para reseñas y reservas (Make, con plan gratis de 1.000 créditos por mes). Ninguna de las tres es específica de gastronomía: sirven para las tareas que más tiempo llevan.",
+  "picks": [
+   [
+    "claude",
+    "Textos de menú, respuestas a reseñas y descripciones."
+   ],
+   [
+    "capcut",
+    "Reels y videos cortos del local, con plan Free."
+   ],
+   [
+    "make",
+    "Automatizar avisos de reservas y reseñas entre apps."
+   ],
+   [
+    "metricool",
+    "Programar y medir las redes del restaurante: gratis para 1 marca."
+   ]
+  ],
+  "pick": [
+   "Empezá por las reseñas: responder todas, rápido, suma más que publicar más.",
+   "Usá plantillas (mismo formato de post) para no rediseñar cada día.",
+   "Automatizá solo lo repetitivo (aviso de reserva, pedido de reseña) y revisá lo que ve el cliente.",
+   "Confirmá precios y planes en el sitio oficial antes de pagar."
+  ],
+  "faq": [
+   [
+    "¿Qué IA le sirve a un restaurante?",
+    "Claude para textos, CapCut para Reels y Make para automatizar avisos. Metricool para programar las redes."
+   ],
+   [
+    "¿Hay opciones gratis?",
+    "Claude y CapCut tienen plan gratis, Make da 1.000 créditos por mes y Metricool es gratis para 1 marca."
+   ],
+   [
+    "¿La IA toma reservas por mí?",
+    "No con estas herramientas solas: sirven para redactar, editar video y conectar las apps que ya usás."
+   ]
+  ]
+ },
+ {
+  "slug": "inmobiliarias",
+  "x": "inmobiliarias",
+  "cat": "ventas-crm",
+  "casos": [
+   "inmobiliaria"
+  ],
+  "comp": null,
+  "answer": "Para una inmobiliaria, el orden es: captar la consulta (Tidio, con plan Free), ordenar los contactos (HubSpot, gratis hasta 2 usuarios y 1.000 contactos) y redactar fichas y respuestas (ChatGPT, con plan Free). Para videos de recorridos, Descript edita por texto.",
+  "picks": [
+   [
+    "tidio",
+    "Chat con IA para responder consultas de propiedades, con plan Free."
+   ],
+   [
+    "hubspot",
+    "CRM gratis para seguir cada interesado."
+   ],
+   [
+    "chatgpt",
+    "Redactar fichas, descripciones y respuestas."
+   ],
+   [
+    "descript",
+    "Editar videos de recorridos por texto."
+   ]
+  ],
+  "pick": [
+   "Respondé primero por donde llega la consulta (web, WhatsApp, portales).",
+   "Guardá cada interesado en el CRM con la propiedad que preguntó.",
+   "Usá la IA para el primer borrador de la ficha y revisá datos (precio, metros, expensas).",
+   "Para video, grabá el recorrido y editá por texto en vez de aprender un editor."
+  ],
+  "faq": [
+   [
+    "¿Qué IA conviene a una inmobiliaria chica?",
+    "Tidio para responder consultas, HubSpot para ordenar contactos y ChatGPT para redactar fichas."
+   ],
+   [
+    "¿Puedo hacerlo gratis?",
+    "Tidio tiene plan Free, HubSpot es gratis hasta 2 usuarios y 1.000 contactos, y ChatGPT tiene plan Free."
+   ],
+   [
+    "¿La IA publica sola en los portales?",
+    "No: estas herramientas redactan y organizan, pero la publicación la hacés vos."
+   ]
+  ]
+ },
+ {
+  "slug": "agencias-de-marketing",
+  "x": "agencias de marketing",
+  "cat": "anuncios",
+  "casos": [
+   "agencia"
+  ],
+  "comp": null,
+  "answer": "Para una agencia, Claude sirve para pasar del brief al primer borrador (plan gratis), AdCreative.ai para producir variantes de anuncios (prueba de 7 días) y Looker Studio para armar reportes de clientes (gratis). Attention Insight (Basic EUR 29/mes, prueba de 14 días) predice hacia dónde mira la gente en una pieza.",
+  "picks": [
+   [
+    "claude",
+    "Del brief al borrador de copies y propuestas."
+   ],
+   [
+    "adcreative",
+    "Variantes de creatividades para testear en pauta."
+   ],
+   [
+    "lookerstudio",
+    "Reportes de clientes, gratis."
+   ],
+   [
+    "attentioninsight",
+    "Predecir atención visual de una pieza antes de publicarla."
+   ]
+  ],
+  "pick": [
+   "Separá producción (textos y piezas) de reporte (datos del cliente).",
+   "Con varios clientes, estandarizá un flujo por tipo de campaña.",
+   "Revisá cada pieza antes de publicarla: la IA no conoce la marca como vos.",
+   "Medí por cliente, no solo por campaña."
+  ],
+  "faq": [
+   [
+    "¿Qué herramientas de IA usa una agencia chica?",
+    "Claude para redactar, AdCreative.ai para creatividades y Looker Studio para reportes."
+   ],
+   [
+    "¿Cuánto sale armar el reporte de un cliente?",
+    "Looker Studio es gratis; conectás las fuentes de datos que ya usás."
+   ],
+   [
+    "¿Reemplaza al equipo?",
+    "Acelera borradores y variantes; la estrategia y la revisión siguen siendo del equipo."
+   ]
+  ]
  }
 ]
