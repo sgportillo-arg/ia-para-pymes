@@ -10,7 +10,7 @@ El campo `afiliadoPrograma` guarda la URL del programa como referencia. Comision
 | Prioridad | Herramienta (id) | Comisión publicada | Registro (`afiliadoPrograma`) | Aparece en |
 |---|---|---|---|---|
 | 1 | AdCreative.ai (`adcreative`) | 40% recurrente | https://dash.partnerstack.com/application?company=adcreative | /mejor-ia-para/anuncios/ |
-| 2 | Tidio (`tidio`) | 30% recurrente de por vida | https://www.tidio.com/partners/affiliate/ | whatsapp-negocios, atencion-al-cliente |
+| 2 | Tidio (`tidio`) | 20% a 25% — ACTIVO: https://affiliate.tidio.com/3o5otecm6l0q | https://www.tidio.com/partners/affiliate/ | whatsapp-negocios, atencion-al-cliente |
 | 3 | HubSpot (`hubspot`) | 30% recurrente | https://www.hubspot.com/partners/affiliates | atencion-al-cliente |
 | 4 | n8n (`n8n`) | 30% | https://dash.partnerstack.com/application?company=n8n&group=affiliates2025 | fichas / comparativa |
 | 5 | respond.io (`respondio`) | 15–40% (programa partner) | https://dash.partnerstack.com/application?company=respondio&group=qualified | whatsapp-negocios, atencion-al-cliente |
