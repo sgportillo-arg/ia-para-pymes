@@ -47,7 +47,8 @@
     "¿Puedo pagar con tarjeta argentina?",
     "No lo verificamos en ninguna fuente oficial; confirmalo en el checkout de cada herramienta."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "facturacion",
@@ -91,7 +92,8 @@
     "¿ChatGPT puede hacer facturas?",
     "No emite comprobantes fiscales; sirve para redactar textos y ordenar información."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "anuncios",
@@ -140,7 +142,8 @@
     "¿Las creatividades con IA funcionan en español?",
     "Pencil indica que genera texto en español; en el resto, probalo en la prueba gratis."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "atencion-al-cliente",
@@ -190,7 +193,8 @@
     "¿La IA reemplaza al equipo de atención?",
     "Responde lo repetitivo; los casos complejos conviene derivarlos a una persona."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "redes-sociales",
@@ -244,7 +248,8 @@
     "¿Cómo hago clips para Reels con IA?",
     "OpusClip convierte videos largos en clips cortos; tiene plan gratis con marca de agua."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "gastronomia",
@@ -292,7 +297,8 @@
     "¿La IA toma reservas por mí?",
     "No con estas herramientas solas: sirven para redactar, editar video y conectar las apps que ya usás."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "inmobiliarias",
@@ -340,7 +346,8 @@
     "¿La IA publica sola en los portales?",
     "No: estas herramientas redactan y organizan, pero la publicación la hacés vos."
    ]
-  ]
+  ],
+  "fecha": "2026-10-15"
  },
  {
   "slug": "agencias-de-marketing",
@@ -387,6 +394,111 @@
    [
     "¿Reemplaza al equipo?",
     "Acelera borradores y variantes; la estrategia y la revisión siguen siendo del equipo."
+   ]
+  ],
+  "fecha": "2026-10-15"
+ },
+ {
+  "slug": "videos-para-redes",
+  "x": "hacer Reels y TikToks",
+  "cat": "video",
+  "fecha": "2026-10-16",
+  "casos": [
+   "gimnasio",
+   "gastronomia",
+   "turismo",
+   "inmobiliaria"
+  ],
+  "comp": null,
+  "answer": "Si ya grabás videos largos (vivos, charlas o podcasts), OpusClip los corta en clips verticales para Reels y TikTok: tiene plan gratis con marca de agua y Starter desde USD 15/mes. Para editar a mano con subtítulos, CapCut tiene plan Free. Descript edita video por texto (60 min/mes gratis) y HeyGen hace videos con avatar y doblaje (3 videos/mes gratis).",
+  "picks": [
+   [
+    "opusclip",
+    "Mejor para reciclar videos largos en varios clips cortos; plan gratis con marca de agua."
+   ],
+   [
+    "capcut",
+    "Mejor gratis para editar Reels a mano, con subtítulos y efectos."
+   ],
+   [
+    "descript",
+    "Editar video y audio borrando texto; transcribe y dobla en español."
+   ],
+   [
+    "heygen",
+    "Videos con avatar o doblados a otro idioma sin volver a grabar."
+   ]
+  ],
+  "pick": [
+   "Si no tenés material largo, empezá con CapCut y grabá directo en vertical.",
+   "Si hacés vivos, charlas o podcasts, un recortador como OpusClip te saca varios clips de cada video.",
+   "Sumá subtítulos para quien mira sin sonido.",
+   "Revisá cada clip antes de publicarlo: la IA puede cortar una frase a la mitad.",
+   "Probá el plan gratis y fijate si la marca de agua te molesta antes de pagar."
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor IA para hacer Reels de un negocio?",
+    "Si ya tenés videos largos, OpusClip los convierte en clips cortos. Si grabás directo para redes, CapCut alcanza para editar con subtítulos y tiene plan Free."
+   ],
+   [
+    "¿Hay herramientas gratis para editar videos con IA?",
+    "Sí: CapCut tiene plan Free, OpusClip un plan gratis con marca de agua, Descript 60 minutos por mes y HeyGen 3 videos por mes, según sus páginas de precios."
+   ],
+   [
+    "¿Puedo hacer videos con IA sin aparecer en cámara?",
+    "HeyGen genera videos con avatares y doblaje. Revisá en su sitio qué incluye el plan gratis antes de usarlo para tu marca."
+   ]
+  ]
+ },
+ {
+  "slug": "automatizar-tareas",
+  "x": "automatizar tareas de tu pyme",
+  "cat": "automatizacion",
+  "fecha": "2026-10-16",
+  "casos": [
+   "ecommerce",
+   "estudio-contable",
+   "gastronomia"
+  ],
+  "comp": "zapier-vs-make-vs-n8n",
+  "answer": "Para conectar apps sin programar, Make es un buen punto de partida: editor visual y plan gratis de 1.000 créditos por mes. Zapier es la alternativa, con plan gratis de 100 tareas por mes y Pro desde USD 19,99/mes (anual). Si tenés a alguien técnico, n8n se instala gratis en tu propio servidor (Community Edition) o se usa en la nube desde EUR 20/mes (anual).",
+  "picks": [
+   [
+    "make",
+    "Mejor para empezar: editor visual y plan gratis de 1.000 créditos por mes."
+   ],
+   [
+    "zapier",
+    "Alternativa con plan gratis de 100 tareas por mes; Pro desde USD 19,99/mes (anual)."
+   ],
+   [
+    "n8n",
+    "Mejor si tenés perfil técnico: Community Edition autoalojada gratis y agentes de IA."
+   ]
+  ],
+  "pick": [
+   "Empezá por una tarea que repetís todos los días, como pasar los datos de un formulario a una planilla o avisar un pedido nuevo.",
+   "Calculá cuántas veces por mes se va a ejecutar: los planes gratis tienen límite de tareas o créditos.",
+   "Si manejás datos sensibles de clientes, n8n autoalojado te deja tenerlos en tu propio servidor.",
+   "Probá cada automatización con datos de prueba antes de conectarla a clientes reales."
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor herramienta para automatizar tareas en una pyme?",
+    "Make para empezar, con plan gratis de 1.000 créditos por mes; Zapier como alternativa (100 tareas gratis por mes); n8n si tenés perfil técnico y querés instalarlo gratis en tu servidor."
+   ],
+   [
+    "¿Automatizar tareas es gratis?",
+    "Las tres tienen una opción sin costo: Make (1.000 créditos por mes), Zapier (100 tareas por mes) y n8n Community Edition autoalojada. Para más volumen hay que pasar a un plan pago."
+   ],
+   [
+    "¿Necesito saber programar?",
+    "Para Make y Zapier no; se arman conectando pasos. n8n autoalojado requiere instalarlo y mantener un servidor."
+   ],
+   [
+    "¿Zapier cobra en pesos argentinos?",
+    "No: según su página de precios no factura en ARS, sí en BRL, MXN o USD."
    ]
   ]
  }
