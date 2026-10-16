@@ -501,5 +501,55 @@
     "No: según su página de precios no factura en ARS, sí en BRL, MXN o USD."
    ]
   ]
+ },
+ {
+  "slug": "neuromarketing",
+  "x": "neuromarketing",
+  "cat": "neuromarketing",
+  "fecha": "2026-10-16",
+  "casos": [
+   "agencia"
+  ],
+  "comp": null,
+  "answer": "Si querés saber cómo se comporta la gente en tu web, Hotjar es el punto de partida porque tiene plan gratis hasta 200.000 sesiones por mes. Para anticipar hacia dónde va a mirar alguien en una pieza antes de publicarla, Attention Insight arranca en EUR 29 por mes con prueba de 14 días. Neurons Predict y Expoze.io hacen algo parecido, pero no publican precios.",
+  "picks": [
+   [
+    "hotjar",
+    "Mapas de calor y grabaciones de visitas reales, con plan gratis."
+   ],
+   [
+    "attentioninsight",
+    "Mapas de atención predictivos, con precio publicado y prueba de 14 días."
+   ],
+   [
+    "neurons",
+    "Predicción de atención y engagement de creatividades. Precio a consultar."
+   ],
+   [
+    "expoze",
+    "Eye tracking predictivo para diseños. Precio no publicado."
+   ]
+  ],
+  "pick": [
+   "Si ya tenés tráfico en tu web, empezá midiendo lo que pasa de verdad antes que lo que podría pasar.",
+   "Las herramientas predictivas sirven para comparar dos versiones de una pieza antes de invertir en pauta.",
+   "Usá los resultados como una pista más y no como la respuesta final sobre tu marca.",
+   "Confirmá precios y condiciones en el sitio oficial antes de pagar."
+  ],
+  "faq": [
+   [
+    "¿Qué herramienta de neuromarketing conviene a una pyme?",
+    "Hotjar para empezar, porque tiene plan gratis. Attention Insight si querés probar piezas antes de publicarlas."
+   ],
+   [
+    "¿Hay neuromarketing con IA gratis?",
+    "Hotjar tiene plan gratis hasta 200.000 sesiones por mes según su página de precios. Las herramientas predictivas que listamos son pagas o no publican precio."
+   ],
+   [
+    "¿Necesito un especialista para usarlas?",
+    "No para empezar, pero interpretar los resultados y aplicarlos a tu comunicación rinde más con acompañamiento."
+   ]
+  ],
+  "cta": true
  }
 ]
