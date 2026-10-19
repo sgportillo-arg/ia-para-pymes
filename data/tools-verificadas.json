@@ -288,12 +288,12 @@
   "afiliado": ""
  },
  "tidio": {
-  "precio": "Desde USD 24,17/mes (Starter)",
-  "planGratis": "Sí (plan Free + prueba 7 días)",
+  "precio": "Desde USD 24,17/mes (Starter, 100 conversaciones facturables); agente IA Lyro desde USD 32,50/mes",
+  "planGratis": "Sí (plan Free; prueba de 7 días sin tarjeta; 50 conversaciones de Lyro para empezar)",
   "espanol": "sin verificar",
   "tarjetaAR": "sin verificar",
   "fuente": "https://www.tidio.com/pricing/",
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-19",
   "verificado": true,
   "afiliadoPrograma": "https://www.tidio.com/partners/affiliate/",
   "afiliado": "https://affiliate.tidio.com/3o5otecm6l0q"

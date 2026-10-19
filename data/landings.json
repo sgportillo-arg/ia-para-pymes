@@ -551,5 +551,59 @@
    ]
   ],
   "cta": true
+ },
+ {
+  "slug": "chatbot-tienda-online",
+  "x": "un chatbot de tienda online",
+  "cat": "atencion-whatsapp",
+  "casos": [
+   "ecommerce"
+  ],
+  "comp": "manychat-vs-tidio",
+  "answer": "Para una tienda online que recibe muchas preguntas repetidas (envíos, talles, medios de pago, estado del pedido), Tidio es la opción más directa: chat en la web con el agente IA Lyro, plan Free y prueba de 7 días sin tarjeta. Si la mayoría de las consultas llegan por Instagram o WhatsApp, ManyChat tiene plan gratis. Para un equipo que atiende varios canales a la vez, respond.io centraliza todo en una bandeja.",
+  "picks": [
+   [
+    "tidio",
+    "Mejor para el chat de la web de la tienda: Lyro responde con el contenido que le cargás y deriva a una persona cuando hace falta."
+   ],
+   [
+    "manychat",
+    "Mejor gratis si las ventas entran por Instagram o WhatsApp."
+   ],
+   [
+    "respondio",
+    "Para equipos que atienden WhatsApp, Instagram y web en una misma bandeja."
+   ],
+   [
+    "hubspot",
+    "Para guardar los datos de cada cliente en un CRM gratis (2 usuarios, 1.000 contactos)."
+   ]
+  ],
+  "pick": [
+   "Juntá las 20 preguntas que más te hacen y cargalas como base de conocimiento antes de activar el bot.",
+   "Medí cuántas conversaciones por mes respondés hoy: Tidio cobra por conversaciones facturables (las que responde una persona), y las respuestas de Lyro y de los Flows no cuentan como respuesta de agente.",
+   "Elegí por canal: si el cliente pregunta en la web, chat web; si pregunta por Instagram o WhatsApp, un bot de mensajería.",
+   "Definí qué casos pasan siempre a una persona: reclamos, cambios y pagos.",
+   "Probá con la prueba gratis y una sola página antes de ponerlo en toda la tienda."
+  ],
+  "faq": [
+   [
+    "¿Cuánto cuesta Tidio para una tienda online?",
+    "Según su página de precios (revisada el 19/10/2026), el plan Starter arranca en USD 24,17 por mes con 100 conversaciones facturables, y el agente IA Lyro arranca en USD 32,50 por mes. Tiene plan Free y prueba de 7 días sin tarjeta."
+   ],
+   [
+    "¿Qué es una conversación facturable en Tidio?",
+    "Es una conversación en la que responde una persona de tu equipo. Las respuestas del agente Lyro y de los Flows no cuentan como respuesta de agente, y los mensajes que no contestás no se cobran."
+   ],
+   [
+    "¿Puedo usar Tidio en más de una tienda?",
+    "Sí, Tidio permite instalar el chat en varios sitios o tiendas, aunque comparten la misma configuración de apariencia y horarios."
+   ],
+   [
+    "¿El chatbot reemplaza a la persona que atiende?",
+    "No. Resuelve lo repetitivo y deriva a una persona los casos complejos, como reclamos o pagos."
+   ]
+  ],
+  "fecha": "2026-10-19"
  }
 ]
