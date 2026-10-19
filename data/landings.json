@@ -9,7 +9,7 @@
    "inmobiliaria"
   ],
   "comp": "manychat-vs-tidio",
-  "answer": "Para una pyme que arranca, ManyChat es la opción más simple: tiene plan gratis y bots para WhatsApp, Instagram y Messenger. Si necesitás la API oficial de WhatsApp Business con varios agentes, mirá respond.io (desde USD 79/mes, anual) o WATI (plan Growth más el costo por mensaje de Meta).",
+  "answer": "Si tu pyme recién empieza a atender por WhatsApp, ManyChat es la opción más simple, con plan gratis y bots para WhatsApp, Instagram y Messenger. Cuando necesitás la API oficial de WhatsApp Business con varios agentes, conviene mirar respond.io (desde USD 79 por mes con pago anual) o WATI (plan Growth más el costo por mensaje de Meta).",
   "picks": [
    [
     "manychat",
@@ -58,7 +58,7 @@
    "estudio-contable"
   ],
   "comp": null,
-  "answer": "Para facturar en Argentina, Xubio es la opción de entrada: es un producto argentino con plan Empresa Gratis. Alegra es la alternativa con plan Emprendedor a ARS 27.999/mes + IVA y prueba de 15 días. Confirmá en cada sitio que el plan elegido incluya factura electrónica de ARCA para tu condición fiscal.",
+  "answer": "Para facturar en Argentina, Xubio es una buena puerta de entrada porque es un producto argentino con plan Empresa Gratis. Alegra es la alternativa, con plan Emprendedor a ARS 27.999 por mes más IVA y prueba de 15 días. Antes de elegir, confirmá en cada sitio que el plan incluya factura electrónica de ARCA para tu condición fiscal.",
   "picks": [
    [
     "xubio",
@@ -104,7 +104,7 @@
    "agencia"
   ],
   "comp": null,
-  "answer": "Para generar creatividades de anuncios con IA, AdCreative.ai está pensada para producir muchas variantes (prueba gratis de 7 días) y Pencil es la opción más accesible (Core desde USD 14/mes). Si pautás en Meta, también podés probar Advantage+, la automatización con IA que trae Meta Ads (detalles sin verificar).",
+  "answer": "Si necesitás muchas variantes de anuncios en poco tiempo, AdCreative.ai está pensada para eso y tiene prueba gratis de 7 días. Pencil es la opción más accesible, con plan Core desde USD 14 por mes. Si ya pautás en Meta, también podés probar Advantage+, la automatización con IA que trae Meta Ads (detalles sin verificar).",
   "picks": [
    [
     "adcreative",
@@ -155,7 +155,7 @@
    "ecommerce"
   ],
   "comp": "manychat-vs-tidio",
-  "answer": "Para atención al cliente en la web, Tidio es la opción más directa: chat con agente IA (Lyro) y plan Free. Para centralizar WhatsApp, Instagram y otros canales en una bandeja con IA, respond.io es la opción para equipos. Si tu canal principal es Instagram o WhatsApp, ManyChat tiene plan gratis.",
+  "answer": "Si las consultas llegan por tu web, Tidio es la opción más directa, con chat, agente IA (Lyro) y plan Free. Si tu equipo atiende WhatsApp, Instagram y otros canales a la vez, respond.io los reúne en una sola bandeja con IA. Y si casi todo entra por Instagram o WhatsApp, ManyChat tiene plan gratis.",
   "picks": [
    [
     "tidio",
@@ -206,7 +206,7 @@
    "agencia"
   ],
   "comp": null,
-  "answer": "Combiná un asistente para escribir (ChatGPT o Claude, ambos con plan gratis) con una herramienta para programar y medir: Metricool tiene plan gratis para 1 marca y Buffer arranca en USD 5/mes por canal. Para video corto, OpusClip convierte videos largos en clips.",
+  "answer": "Lo que mejor funciona es combinar un asistente para escribir (ChatGPT o Claude, ambos con plan gratis) con una herramienta para programar y medir. Metricool tiene plan gratis para una marca y Buffer arranca en USD 5 por mes por canal. Para video corto, OpusClip convierte videos largos en clips.",
   "picks": [
    [
     "metricool",
@@ -259,7 +259,7 @@
    "gastronomia"
   ],
   "comp": null,
-  "answer": "Para un restaurante, combiná un asistente para escribir textos (Claude, con plan gratis), un editor de video para Reels (CapCut, con plan Free) y una automatización para reseñas y reservas (Make, con plan gratis de 1.000 créditos por mes). Ninguna de las tres es específica de gastronomía: sirven para las tareas que más tiempo llevan.",
+  "answer": "En un restaurante, el tiempo se va en textos, Reels, reseñas y reservas. Para eso alcanza con combinar un asistente para escribir (Claude, con plan gratis), un editor de video (CapCut, con plan Free) y una automatización para reseñas y reservas (Make, con plan gratis de 1.000 créditos por mes). Ninguna es específica de gastronomía, pero resuelven justo esas tareas.",
   "picks": [
    [
     "claude",
@@ -308,7 +308,7 @@
    "inmobiliaria"
   ],
   "comp": null,
-  "answer": "Para una inmobiliaria, el orden es: captar la consulta (Tidio, con plan Free), ordenar los contactos (HubSpot, gratis hasta 2 usuarios y 1.000 contactos) y redactar fichas y respuestas (ChatGPT, con plan Free). Para videos de recorridos, Descript edita por texto.",
+  "answer": "En una inmobiliaria, cada consulta que no se responde a tiempo puede ser una operación que se va con otro. Conviene seguir este orden. Primero captar la consulta (Tidio, con plan Free), después ordenar los contactos (HubSpot, gratis hasta 2 usuarios y 1.000 contactos) y por último redactar fichas y respuestas (ChatGPT, con plan Free). Para videos de recorridos, Descript edita por texto.",
   "picks": [
    [
     "tidio",
@@ -357,7 +357,7 @@
    "agencia"
   ],
   "comp": null,
-  "answer": "Para una agencia, Claude sirve para pasar del brief al primer borrador (plan gratis), AdCreative.ai para producir variantes de anuncios (prueba de 7 días) y Looker Studio para armar reportes de clientes (gratis). Attention Insight (Basic EUR 29/mes, prueba de 14 días) predice hacia dónde mira la gente en una pieza.",
+  "answer": "En una agencia, Claude ayuda a pasar del brief al primer borrador (plan gratis), AdCreative.ai produce variantes de anuncios (prueba de 7 días) y Looker Studio arma los reportes de clientes sin costo. Attention Insight (Basic EUR 29 por mes, prueba de 14 días) predice hacia dónde va a mirar la gente en una pieza antes de publicarla.",
   "picks": [
    [
     "claude",
@@ -410,7 +410,7 @@
    "inmobiliaria"
   ],
   "comp": null,
-  "answer": "Si ya grabás videos largos (vivos, charlas o podcasts), OpusClip los corta en clips verticales para Reels y TikTok: tiene plan gratis con marca de agua y Starter desde USD 15/mes. Para editar a mano con subtítulos, CapCut tiene plan Free. Descript edita video por texto (60 min/mes gratis) y HeyGen hace videos con avatar y doblaje (3 videos/mes gratis).",
+  "answer": "Si ya grabás videos largos, como vivos, charlas o podcasts, OpusClip los corta en clips verticales para Reels y TikTok. Tiene plan gratis con marca de agua y Starter desde USD 15 por mes. Para editar a mano con subtítulos, CapCut tiene plan Free. Descript edita video por texto (60 minutos por mes gratis) y HeyGen hace videos con avatar y doblaje (3 videos por mes gratis).",
   "picks": [
    [
     "opusclip",
@@ -462,7 +462,7 @@
    "gastronomia"
   ],
   "comp": "zapier-vs-make-vs-n8n",
-  "answer": "Para conectar apps sin programar, Make es un buen punto de partida: editor visual y plan gratis de 1.000 créditos por mes. Zapier es la alternativa, con plan gratis de 100 tareas por mes y Pro desde USD 19,99/mes (anual). Si tenés a alguien técnico, n8n se instala gratis en tu propio servidor (Community Edition) o se usa en la nube desde EUR 20/mes (anual).",
+  "answer": "Para conectar tus apps sin programar, Make es un buen punto de partida, con editor visual y plan gratis de 1.000 créditos por mes. Zapier es la alternativa, con plan gratis de 100 tareas por mes y Pro desde USD 19,99 por mes con pago anual. Si tenés a alguien técnico, n8n se instala gratis en tu propio servidor (Community Edition) o se usa en la nube desde EUR 20 por mes con pago anual.",
   "picks": [
    [
     "make",
@@ -511,7 +511,7 @@
    "agencia"
   ],
   "comp": null,
-  "answer": "Si querés saber cómo se comporta la gente en tu web, Hotjar es el punto de partida porque tiene plan gratis hasta 200.000 sesiones por mes. Para anticipar hacia dónde va a mirar alguien en una pieza antes de publicarla, Attention Insight arranca en EUR 29 por mes con prueba de 14 días. Neurons Predict y Expoze.io hacen algo parecido, pero no publican precios.",
+  "answer": "Para entender cómo se mueve la gente en tu web, Hotjar es el punto de partida, con plan gratis hasta 200.000 sesiones por mes. Para anticipar hacia dónde va a mirar alguien en una pieza antes de publicarla, Attention Insight arranca en EUR 29 por mes con prueba de 14 días. Neurons Predict y Expoze.io hacen algo parecido, pero no publican precios.",
   "picks": [
    [
     "hotjar",
@@ -560,31 +560,31 @@
    "ecommerce"
   ],
   "comp": "manychat-vs-tidio",
-  "answer": "Para una tienda online que recibe muchas preguntas repetidas (envíos, talles, medios de pago, estado del pedido), Tidio es la opción más directa: chat en la web con el agente IA Lyro, plan Free y prueba de 7 días sin tarjeta. Si la mayoría de las consultas llegan por Instagram o WhatsApp, ManyChat tiene plan gratis. Para un equipo que atiende varios canales a la vez, respond.io centraliza todo en una bandeja.",
+  "answer": "Si en tu tienda online respondés todos los días las mismas preguntas sobre envíos, talles, medios de pago o estado del pedido, Tidio es la opción más directa. Suma un chat en tu web con Lyro, un agente de IA que contesta con la información que vos le cargás, y podés probarlo 7 días sin tarjeta o quedarte en el plan Free. Si casi todas las consultas te llegan por Instagram o WhatsApp, ManyChat tiene plan gratis. Y si un equipo atiende varios canales a la vez, respond.io los junta en una sola bandeja.",
   "picks": [
    [
     "tidio",
-    "Mejor para el chat de la web de la tienda: Lyro responde con el contenido que le cargás y deriva a una persona cuando hace falta."
+    "Ideal para el chat de la web de tu tienda. Lyro responde con el contenido que le cargás y, cuando la consulta lo necesita, la deriva a una persona. Según Tidio, Lyro resuelve en promedio el 75% de las conversaciones de sus clientes."
    ],
    [
     "manychat",
-    "Mejor gratis si las ventas entran por Instagram o WhatsApp."
+    "La mejor opción gratis si tus ventas entran por Instagram o WhatsApp."
    ],
    [
     "respondio",
-    "Para equipos que atienden WhatsApp, Instagram y web en una misma bandeja."
+    "Para equipos que atienden WhatsApp, Instagram y la web en una misma bandeja."
    ],
    [
     "hubspot",
-    "Para guardar los datos de cada cliente en un CRM gratis (2 usuarios, 1.000 contactos)."
+    "Para guardar los datos de cada cliente en un CRM gratis (2 usuarios y 1.000 contactos)."
    ]
   ],
   "pick": [
    "Juntá las 20 preguntas que más te hacen y cargalas como base de conocimiento antes de activar el bot.",
-   "Medí cuántas conversaciones por mes respondés hoy: Tidio cobra por conversaciones facturables (las que responde una persona), y las respuestas de Lyro y de los Flows no cuentan como respuesta de agente.",
-   "Elegí por canal: si el cliente pregunta en la web, chat web; si pregunta por Instagram o WhatsApp, un bot de mensajería.",
-   "Definí qué casos pasan siempre a una persona: reclamos, cambios y pagos.",
-   "Probá con la prueba gratis y una sola página antes de ponerlo en toda la tienda."
+   "Mirá cuántas conversaciones respondés hoy por mes. Tidio cobra por conversaciones facturables, que son las que responde una persona, y las respuestas de Lyro y de los Flows no cuentan como respuesta de agente.",
+   "Elegí según el canal. Si el cliente pregunta en la web, te conviene un chat web, y si pregunta por Instagram o WhatsApp, un bot de mensajería.",
+   "Definí qué casos pasan siempre a una persona, como reclamos, cambios y pagos.",
+   "Probalo primero en una sola página y, si funciona, extendelo a toda la tienda."
   ],
   "faq": [
    [
@@ -604,6 +604,12 @@
     "No. Resuelve lo repetitivo y deriva a una persona los casos complejos, como reclamos o pagos."
    ]
   ],
-  "fecha": "2026-10-19"
+  "fecha": "2026-10-19",
+  "intro": "Cada pregunta repetida te saca unos minutos, y al final del día suman horas que podrías dedicar a vender. Lo más caro, igual, es la consulta que llega a la noche o el fin de semana y nadie responde, porque ese cliente suele terminar comprando en otra tienda. Un chatbot no reemplaza a tu equipo. Lo que hace es contestar al instante lo de siempre y pasarle a una persona lo que de verdad necesita atención, como reclamos, cambios o pagos.",
+  "ctaAfil": {
+   "id": "tidio",
+   "titulo": "Probá Tidio en tu tienda",
+   "texto": "Tenés 7 días para probar todas las funciones sin cargar tarjeta. Si no te convence, tu cuenta pasa sola al plan Free y no pagás nada. Empezá por tus 20 preguntas más frecuentes y en una semana vas a ver cuántas consultas se resuelven sin que tengas que intervenir."
+  }
  }
 ]
